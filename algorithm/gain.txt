@@ -1,0 +1,11 @@
+abcdefg gain   ->  7x2 = 14
+abmopqr        ->  7x3 = 21 
+ajayesh        ->  7x2 = 14 
+cdefgh         ->  6x2 = 12
+mopqrs         ->  6x2 = 12
+mopqrf         ->  6x2 = 12 
+cdefgi         ->  6x2 = 12
+mopqrt         ->  6x2 = 12
+jklmno         ->  6x2 = 12 
+qrstuv         ->  6x2 = 12
+xvzabc         ->  6x4 = 24

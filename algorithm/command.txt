@@ -1,0 +1,2 @@
+1) perl find_string.pl database.txt strings.txt
+2) perl lcs.pl strings.txt out.txt 

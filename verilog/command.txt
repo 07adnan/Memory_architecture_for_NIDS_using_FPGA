@@ -1,0 +1,3 @@
+vsim -novopt work.test  /*This command is for loading
+add wave -r /*
+run -all
